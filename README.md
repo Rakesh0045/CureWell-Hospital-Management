@@ -1,4 +1,3 @@
-```markdown
 # 🏥 CureWell Hospital Appointment Management System
 
 A full-stack **Java-based web application** for efficient **hospital appointment booking** and **doctor management**. Built with **JSP, Servlets, JDBC, and MySQL**, this system enables patients to book appointments, manage profiles, download professional **PDF slips**, while allowing admins and doctors to manage their workflows with ease.
@@ -33,8 +32,6 @@ A full-stack **Java-based web application** for efficient **hospital appointment
 - 📦 **DAO Pattern** – Clean, modular DB operations  
 - 🔐 **Session Management** – Role-based authentication for secure access  
 
-```text
-Frontend (JSP) ➝ Servlets ➝ DAO ➝ MySQL
 ```
 
 ---
