@@ -1,0 +1,4 @@
+com\db\DBConnect.class
+com\entity\User.class
+com\dao\UserDao.class
+com\user\servlet\UserRegister.class
