@@ -42,7 +42,7 @@ A full-stack **Java-based web application** for efficient **hospital appointment
 - 🗄️ **Database**: MySQL  
 - 🧾 **PDF Generation**: iText  
 - 🧩 **Server**: Apache Tomcat 9  
-- 🧠 **IDE**: Eclipse / IntelliJ IDEA  
+- 🧠 **IDE**: Eclipse  
 
 ---
 
