@@ -1,4 +1,3 @@
-```markdown
 # 🏥 CureWell Hospital Appointment Management System
 
 A full-stack **Java-based web application** designed for efficient **hospital appointment booking** and **doctor management**. Built with **JSP, Servlets, JDBC, and MySQL**, this project allows users to book appointments, manage profiles, download sleek **PDF appointment slips**, and enables admins to manage doctors and appointments seamlessly.
@@ -34,9 +33,7 @@ A full-stack **Java-based web application** designed for efficient **hospital ap
 - **📄 PDF Generation** – Generated using `iText` for elegant appointment slips  
 - **🔐 Session Management** – Controlled access for Admin, Doctor, and User roles  
 
-```text
-Frontend (JSP) → Servlet Controllers → DAO Layer → MySQL DB
-```
+
 
 ---
 
@@ -85,14 +82,18 @@ HospitalManagementSystem/
   ![Index Page](./screenshots/4.png)
   ![Index Page](./screenshots/5.png)
 
+
 - **Admin Login**
   ![Admin Login](./screenshots/6.png)
+
 
 - **Doctor Login**
   ![Doctor Login](./screenshots/7.png)
 
+
 - **User Login**
   ![User Login](./screenshots/8.png)
+
 
 ---
 
@@ -100,17 +101,22 @@ HospitalManagementSystem/
 - **User Home**
   ![User Home](./screenshots/12.png)
 
+
 - **Book Your Appointment**
   ![Book Appointment](./screenshots/9.png)
+
 
 - **Your Appointments**
   ![User Appointments](./screenshots/13.png)
 
+
 - **Change Password**
   ![Change Password](./screenshots/14.png)
 
+
 - **Generated Appointment Slip (PDF)**
-  ![Appointment Slip PDF 1](./screenshots/AppointmentSlipPDF1.png)  
+  ![Appointment Slip PDF 1](./screenshots/15.png)  
+
 
 ---
 
@@ -118,8 +124,10 @@ HospitalManagementSystem/
 - **Doctor Home**
   ![Doctor Home](./screenshots/10.png)
 
+
 - **Manage Doctor Profile**
   ![Manage Profile](./screenshots/11.png)
+
 
 ---
 
@@ -127,11 +135,14 @@ HospitalManagementSystem/
 - **Admin Dashboard**
   ![Admin Home](./screenshots/3.png)
 
+
 - **Doctor Details**
   ![Doctor Details](./screenshots/2.png)
 
+
 - **Patient Details**
   ![Patient Details](./screenshots/1.png)
+
 
 ---
 
