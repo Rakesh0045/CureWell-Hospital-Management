@@ -32,7 +32,6 @@ A full-stack **Java-based web application** for efficient **hospital appointment
 - 📦 **DAO Pattern** – Clean, modular DB operations  
 - 🔐 **Session Management** – Role-based authentication for secure access  
 
-```
 
 ---
 
