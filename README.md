@@ -29,8 +29,7 @@ A full-stack **Java-based web application** designed for efficient **hospital ap
 ## 🧱 Architecture & Design Patterns
 
 - **🧭 MVC Pattern** – Structured separation of business logic, presentation, and routing  
-- **📦 DAO Pattern** – Modular and reusable DB operations (e.g., `DoctorDao`, `UserDao`)  
-- **📄 PDF Generation** – Generated using `iText` for elegant appointment slips  
+- **📦 DAO Pattern** – Modular and reusable DB operations 
 - **🔐 Session Management** – Controlled access for Admin, Doctor, and User roles  
 
 
@@ -186,7 +185,6 @@ http://localhost:8080/HospitalManagementSystem/
 
 ## 🎯 Future Enhancements
 
-- ✨ Role-based dashboards (Doctor/User/Admin segregation)
 - 📧 Email & SMS confirmation on appointment
 - 🔒 Spring Security integration
 - 📱 Mobile-responsive UI
